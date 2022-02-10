@@ -11,7 +11,7 @@ function App() {
    <>
     <Router>
    <Navbar />
-   <div className="container my-2 nx-2">
+   <div className="container">
    
     <Routes>
      <Route path="/about" element={<About />} />
